@@ -1,0 +1,23 @@
+[
+ {
+  "table":"TVDIR",
+  "data":
+  [
+   {
+    "TABNAME":"ZGITBUB_PUBLIC1",
+    "AREA":"ZGITBUB_PUBLIC1",
+    "DEVCLASS":"ZGITHUB_PUBLIC",
+    "TYPE":"2",
+    "LISTE":100,
+    "DETAIL":200,
+    "OCCURS":0,
+    "CLTCODE":"",
+    "BASTAB":"X",
+    "NEWGENER":"",
+    "GENDATE":"2024-06-29",
+    "GENTIME":"18:11:43",
+    "FLAG":""
+   }
+  ]
+ }
+]

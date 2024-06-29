@@ -1,0 +1,18 @@
+[
+ {
+  "table":"TDDAT",
+  "index":
+  [
+   {
+    "columns":
+    [
+     {
+      "key":"TABNAME",
+      "value":"ZGITBUB_PUBLIC1"
+     }
+    ],
+    "hash":"EZzg2zaryH2/F+Lt8PVgfMN6+ko="
+   }
+  ]
+ }
+]
