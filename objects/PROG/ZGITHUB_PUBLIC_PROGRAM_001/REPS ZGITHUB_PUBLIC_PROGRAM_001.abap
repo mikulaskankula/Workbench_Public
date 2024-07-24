@@ -6,4 +6,5 @@
 REPORT ZGITHUB_PUBLIC_PROGRAM_001.
 
 
-write 'sapgui'.
+write 'sapgui 1'.
+write 'sapgui 2'.
